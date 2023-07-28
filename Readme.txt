@@ -1,5 +1,7 @@
 Personal Portfolio
 
+ 🔗 https://gourango-cse.github.io/myresume/
+
 Introduction
 
 The personal portfolio is built using HTML, CSS,JavaScript and Bootstrap. It serves as a central hub for anyone interested in learning more about my professional background, skills, and projects. The website provides an easy way for visitors to navigate through various sections and get an overview of my capabilities. It has multiple pages.
